@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ImageResponse } from 'next/og'
 import qs from 'qs'
 import dayjs from 'dayjs'
